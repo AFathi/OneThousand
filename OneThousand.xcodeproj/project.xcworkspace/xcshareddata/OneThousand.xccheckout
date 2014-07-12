@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>938C8A6F-57A3-4019-A8DC-116B0B6A2468</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OneThousand</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8858F7B1-C625-4EC3-AD9B-96B63412360F</key>
+		<string>https://github.com/Hack4Diversity-SF/InstaResume.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OneThousand.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8858F7B1-C625-4EC3-AD9B-96B63412360F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Hack4Diversity-SF/InstaResume.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8858F7B1-C625-4EC3-AD9B-96B63412360F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8858F7B1-C625-4EC3-AD9B-96B63412360F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OneThousand</string>
+		</dict>
+	</array>
+</dict>
+</plist>
